@@ -9,6 +9,7 @@ This model applies CNN (Convolutional Neural Network) method for classifying ima
 - Glofish
   
 The accuracy of this classification model reaches 90%, using the following dataset: https://drive.google.com/drive/folders/1ACWuMCc0erdVTqu5ctNWUsZ4wHO7QqQu?usp=sharing
+
 ![90_acc](https://github.com/DarmaYudaa/rekanikan-model/assets/89464578/a7fdddb2-29c5-40cb-b5f9-fd3cfd0931c1)
 ![23_loss](https://github.com/DarmaYudaa/rekanikan-model/assets/89464578/526cd44c-6c93-46f2-b2a5-306f79533d07)
 
