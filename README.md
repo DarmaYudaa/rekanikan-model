@@ -18,5 +18,7 @@ This model operates by finding similarities among data (clustering) based on the
 https://github.com/DarmaYudaa/rekanikan-model/blob/main/dataset_rekomendasi_teman_ikan.csv
 
 Visit model on Google Drive : 
+
 Model Rekomendasi .h5  : https://drive.google.com/file/d/1tnpS_SQBQpvW6sFeeOMbKS5kb8BkTcIz/view?usp=sharing
+
 Model Classifikasi .h5 : https://drive.google.com/file/d/1Q-Vi9nQtZxXGTnO2182cxipZ-pdaxV3C/view?usp=sharing
