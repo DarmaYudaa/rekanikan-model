@@ -14,8 +14,7 @@ The accuracy of this classification model reaches 90%, using the following datas
 ![23_loss](https://github.com/DarmaYudaa/rekanikan-model/assets/89464578/526cd44c-6c93-46f2-b2a5-306f79533d07)
 
 2. Ornamental Fish Friend Recommendation Model
-This model operates by finding similarities among data (clustering) based on the characteristics of fish and their environment. The model is created using the following dataset:
-https://github.com/DarmaYudaa/rekanikan-model/blob/main/dataset_rekomendasi_teman_ikan.csv
+This model operates by finding similarities among data (clustering) based on the characteristics of fish and their environment. The model is created using the following dataset: [maintenance]
 
 Visit model on Google Drive : <br />
 
